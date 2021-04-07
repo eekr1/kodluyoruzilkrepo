@@ -1,0 +1,142 @@
+.svg {
+    height: 20px ;
+    width: 20px;
+    color: #f2f2f2 ;
+    overflow: hidden;
+    padding-bottom: 8px;
+
+}
+
+.profile-image {
+        height: 35px;
+        width: 35px;
+        border-radius: 30px;
+
+}
+
+
+a {
+    color: rgba(0,0,0,.54);
+    text-decoration: rgba(0,0,0,.54) ;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
+.box-header {
+    height: 48px;
+    width: 200px;
+    text-align: center;
+    float: right;
+}
+.header-pad {
+    padding-bottom: 20px;
+    padding-right: 10px;
+}
+.logo {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.inputkardes {
+    border-radius: 20px;
+    border: none;
+    font-family: Arial;
+    background-color: transparent;
+    width: 480px;
+    height: 34px;
+
+
+
+
+}
+textarea:focus, input:focus{
+    outline: none;
+}
+
+
+.div-search {
+    width: 480px;
+    height: 34px;
+    text-align: center;
+
+
+}
+.searchh {
+    background-color: #5f6368;
+}
+.voice {
+    width: 30px;
+    height: 30px;
+}
+.search-buttons {
+    height: 25px ;
+    width: 25px;
+    overflow: hidden;
+    margin-top: 10px;
+
+
+}
+.butonsearch {
+   border :  1px solid #f8f9fa;
+    padding: 11px;
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 4px;
+    float: left;
+}
+.butonsearch2 {
+    border :  1px solid #f8f9fa;
+    padding: 11px;
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 4px;
+    float: left;
+}
+.butonbox {
+    background-color: #f8f9fa;
+    width: 119px;
+    height: 17px;
+    text-align: center;
+    margin-right: 146px;
+    margin-top: 35px;
+    font-family: Arial, sans-serif;
+}
+.butonbox2 {
+
+    background-color: #f8f9fa;
+    width: 119px;
+    height: 42px;
+    text-align: center;
+    margin-left: 150px;
+    margin-bottom: 350px;
+    font-family: Arial, sans-serif;
+}
+.footeralan {
+    width: 1910px;
+    height: 105px;
+    background-color: #f2f2f2;
+
+
+}
+.footeralan1 {
+    padding-top: 1px;
+
+    width:100px ;
+    height: 30px;
+    text-align: center;
+}
+.footeralan2 {
+    width: 1910px;
+    height: 20px;
+
+}
+.footeralan3 {
+    width: 200px;
+    height: 20px;
+
+    margin-left: 1250px;
+    margin-bottom: 15px;
+}
